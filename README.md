@@ -18,4 +18,9 @@ Information and tutorials on 3D printing and modeling
 
 * [Keyboard shortcuts](Autodesk/Keyboard-Shortcuts.md)
 
+## Converting files
+
+Convert STL to SVG by layer: [https://www.mylasertools.com/laser-slicer](https://www.mylasertools.com/laser-slicer)
+
+
 
